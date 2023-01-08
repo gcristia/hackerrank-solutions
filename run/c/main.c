@@ -18,8 +18,8 @@ int max_of_four(int a, int b, int c, int d){
 }
 
 int main() {
-    freopen("..\\in", "r", stdin);
-    freopen("..\\out", "w", stdout);
+    freopen("..\\in.txt", "r", stdin);
+    freopen("..\\out.txt", "w", stdout);
 
     int a, b, c, d;
     scanf("%d %d %d %d", &a, &b, &c, &d);
